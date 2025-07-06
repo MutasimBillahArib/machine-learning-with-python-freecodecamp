@@ -38,3 +38,11 @@ This bot was designed to compete in pattern-based RPS environments, such as the 
 
 
 > 🎯 The project demonstrates how simple game strategies can evolve into complex adaptive systems with elements of learning, prediction, and real-time decision-making.
+
+
+## 📬 Let's Connect
+
+I'm always open to feedback, collaboration, or career opportunities!
+
+🔗 [LinkedIn](https://www.linkedin.com/in/mmbillah804/)  
+🔗 [GitHub](https://github.com/mmbillah804)
