@@ -18,7 +18,7 @@ This image classification model learns to distinguish between cats and dogs usin
 
 ## 🧪 Dataset
 
-- **Downloaded from**: [freeCodeCamp CDN]([https://cdn.freecodecamp.org](https://cdn.freecodecamp.org/project-data/cats-and-dogs/cats_and_dogs.zip)
+- **Downloaded from**: [freeCodeCamp CDN](https://cdn.freecodecamp.org/project-data/cats-and-dogs/cats_and_dogs.zip)
 - **Data Split**:
   - Training set
   - Validation set
