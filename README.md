@@ -13,32 +13,24 @@ This repository contains the five projects I completed as part of the **Machine 
 ## 📁 Repository Structure
 
 ```
-├── cat-and-dog-image-classifier/
-│ └── mean_var_std.py
+├── book-recommendation-engine/
+│ └── fcc_book_recommendation_knn.ipynb
 │ └── README.md
 │
-├── book-recommendation-engine/
-│ └── catplot.png
-│ └── heatmap.png
-│ └── medical_data_visualizer.py
-│ └── medical_examination.csv
+├── cat-and-dog-image-classifier/
+│ └── fcc_cat_dog.ipynb
 │ └── README.md
 │
 ├── linear-regression-health-costs/
-│ └── bar_plot.png
-│ └── box_plot.png
-│ └── fcc-forum-pageviews.csv
-│ └── line_plot.png
 │ └── README.md
-│ └── time_series_visualizer.py
+│ └── fcc_predict_health_costs_with_regression.ipynb
 │
 ├── neural-network-sms-classifier/
 │ └── README.md
-│ └── sea_level_plot.png
-│ └── sea_level_predictor.py
+│ └── fcc_sms_text_classification.ipynb
 │
 ├── rock-paper-scissors-strategy-ai/
-│ └── demographic_data_analyzer.py
+│ └── RPS.py
 │ └── README.md
 │
 └── README.md ← (This file)
