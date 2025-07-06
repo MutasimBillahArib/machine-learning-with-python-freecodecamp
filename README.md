@@ -1,4 +1,4 @@
-# 🎓 Machine Learning with Python Certification - freeCodeCamp
+# 🎓 Machine Learning with Python Certification
 
 Welcome to my **Machine Learning with Python Certification** repository!  
 
