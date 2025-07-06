@@ -13,22 +13,18 @@ This repository contains the five projects I completed as part of the **Machine 
 ## 📁 Repository Structure
 
 ```
-├── demographic-data-analyzer/
-│ └── demographic_data_analyzer.py
-│ └── README.md
-│
-├── mean-variance-standard-deviation-calculator/
+├── cat-and-dog-image-classifier/
 │ └── mean_var_std.py
 │ └── README.md
 │
-├── medical-data-visualizer/
+├── book-recommendation-engine/
 │ └── catplot.png
 │ └── heatmap.png
 │ └── medical_data_visualizer.py
 │ └── medical_examination.csv
 │ └── README.md
 │
-├── page-view-time-series-visualizer/
+├── linear-regression-health-costs/
 │ └── bar_plot.png
 │ └── box_plot.png
 │ └── fcc-forum-pageviews.csv
@@ -36,10 +32,14 @@ This repository contains the five projects I completed as part of the **Machine 
 │ └── README.md
 │ └── time_series_visualizer.py
 │
-├── sea-level-predictor/
+├── neural-network-sms-classifier/
 │ └── README.md
 │ └── sea_level_plot.png
 │ └── sea_level_predictor.py
+│
+├── rock-paper-scissors-strategy-ai/
+│ └── demographic_data_analyzer.py
+│ └── README.md
 │
 └── README.md ← (This file)
 ```
