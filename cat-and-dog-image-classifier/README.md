@@ -64,7 +64,6 @@ Final training and validation curves:
 - Evaluated on a set of **50 unseen images**
 - Predictions classified using a **0.5 sigmoid threshold**
 - **Achieved**: ~66% accuracy  
-  > _(e.g., "Your model correctly identified 66.0% of the images.")_
 
 - **Challenge Pass Threshold**: 63%  
 ✅ **Challenge Passed**
