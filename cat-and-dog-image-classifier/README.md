@@ -16,6 +16,14 @@ This image classification model learns to distinguish between cats and dogs usin
 - **Model evaluation** with accuracy and loss metrics
 - **Image prediction and visualization**
 
+## 🧪 Dataset
+
+- **Downloaded from**: [freeCodeCamp CDN]([https://cdn.freecodecamp.org](https://cdn.freecodecamp.org/project-data/cats-and-dogs/cats_and_dogs.zip))
+- **Data Split**:
+  - Training set
+  - Validation set
+  - Test set
+- **Balanced Dataset**: Contains an equal number of **cat** and **dog** images to ensure unbiased training.
 
 ## ⚙️ Model Architecture
 
