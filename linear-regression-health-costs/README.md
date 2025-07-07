@@ -81,3 +81,23 @@ The goal is to keep MAE below $3500.
 ## 🔍 Prediction Plot
 
 Compares predicted vs. actual medical expenses:
+![](predicted_vs_actual.png)
+
+
+## 🧠 Skills Demonstrated
+
+- Regression modeling using TensorFlow
+
+- Encoding and preprocessing real-world data
+
+- Building and tuning deep learning models
+
+- Visualizing regression results and model performance
+
+
+## 📬 Let's Connect
+
+I'm always open to feedback, collaboration, or career opportunities!
+
+🔗 [LinkedIn](https://www.linkedin.com/in/mmbillah804/)  
+🔗 [GitHub](https://github.com/mmbillah804)
