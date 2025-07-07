@@ -85,7 +85,7 @@ Compares predicted vs. actual medical expenses:
 ![](predicted_vs_actual.png)
 
 
-## 🧠 Skills Demonstrated
+## 🧰 Key Concepts Covered
 
 - Regression modeling using TensorFlow
 
