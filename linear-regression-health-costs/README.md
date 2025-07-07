@@ -81,6 +81,7 @@ The goal is to keep MAE below $3500.
 ## 🔍 Prediction Plot
 
 Compares predicted vs. actual medical expenses:
+
 ![](predicted_vs_actual.png)
 
 
