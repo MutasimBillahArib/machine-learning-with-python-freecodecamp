@@ -88,10 +88,3 @@ You passed the challenge! 🎉🎉🎉🎉🎉
 
 > 📘 This project showcases how collaborative filtering and KNN can be used for real-world recommendation systems with large-scale datasets.
 
-
-## 📬 Let's Connect
-
-I'm always open to feedback, collaboration, or career opportunities!
-
-🔗 [LinkedIn](https://www.linkedin.com/in/mmbillah804/)  
-🔗 [GitHub](https://github.com/mmbillah804)
