@@ -105,10 +105,3 @@ A deep learning binary classifier that distinguishes between spam and ham SMS me
 
 This certification journey helped me strengthen my practical skills in applied machine learning and deep learning. I’ve worked with real datasets, built end-to-end models, and explored various ML domains including image processing, natural language processing, and recommender systems.
 
-
-## 📬 Let's Connect
-
-I'm always open to feedback, collaboration, or career opportunities!
-
-🔗 [LinkedIn](https://www.linkedin.com/in/mmbillah804/)  
-🔗 [GitHub](https://github.com/mmbillah804)
