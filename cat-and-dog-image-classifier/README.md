@@ -79,10 +79,3 @@ Final training and validation curves:
 
 > 🎯 This project demonstrates the use of deep learning for image classification, combining CNNs with data augmentation to build a robust and accurate binary classifier.
 
-
-## 📬 Let's Connect
-
-I'm always open to feedback, collaboration, or career opportunities!
-
-🔗 [LinkedIn](https://www.linkedin.com/in/mmbillah804/)  
-🔗 [GitHub](https://github.com/mmbillah804)
